@@ -31,3 +31,5 @@ npm run dev
 ```sh
 npm run build
 ```
+
+![alt text](Capture.PNG)

@@ -16,12 +16,12 @@ function formSubmitted() {
      <form>
         <label>
           New Task
-          <input v-model="newTask" name="newTask"
+          <input v-model="newTask" name="newTask"/>
         </label>
-         <div class=" button-container">
+        <div class=" button-container">
           <button>Add</button>
-          <h3>{{ newTask }}</h3>
         </div>
+        <!-- <h3>{{ newTask }}</h3> -->
       </form>
 
     </main>
